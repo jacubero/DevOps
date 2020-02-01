@@ -1,5 +1,5 @@
-AWS Certified Machine Learning – Specialty
-##########################################
+DevOps Tools
+############
 
 .. .. _cover:
 
